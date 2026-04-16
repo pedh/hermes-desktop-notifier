@@ -26,3 +26,4 @@ cp plugin.yaml __init__.py ~/.hermes/plugins/desktop-notifier/
 - **Slow tool detection** — notifies when a tool takes longer than 30s
 - **Tool errors** — notifies when a tool call fails
 - **Clarify prompts** — notifies when the agent needs user input
+
