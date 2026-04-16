@@ -1,0 +1,8 @@
+name: desktop-notifier
+version: 1.0.0
+description: macOS terminal-notifier for agent lifecycle events
+provides_hooks:
+  - pre_tool_call
+  - post_tool_call
+  - on_clarify
+  - post_llm_call
